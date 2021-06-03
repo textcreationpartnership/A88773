@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Latest remarkable truths, (not before printed) from Chester, Worcester, Devon, Somerset, Yorke and Lanchaster counties, as also from Scotland. Containing among other things these, viz. The Lord Generalls taking of Hereford, a treaty of peace, conditionally concluded upon in York-sheire, betweene the malignant and honest party. The taking prisoners the Earle of Bath, Sir Ralph Sydenham, M. Gifford, Sir Henry Barkley, Sir Henry Pollard, Captain Dyer, and many others of Somerset-sheire, together with the High-Sheriffe and his brother. That the commissioners of the Generall Assembly in Scotland, have chosen both divines and lay-elders, to come to the Assembly of England, with their names. Together, vvith a most exact relation of the siedge at Manchester, by the Lord Strange and his forces; begun upon Saturday the 24th. of Sept. ... Sent up by a speciall post, from a judicious eye witnesse, to a friend of the booksellers in London: shewed to many Parliament worthies, and by them read with much affection, which relation agreeth with many letters that are newly come to divers cittizens.</title>
+         </titleStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88773</idno><idno type="EEBO-CITATION">99873227</idno>
+  <idno type="VID">158277</idno>
+  <idno type="EEBO-PROQUEST">2240953876</idno>
+  
+            <idno type="STC">Wing L565</idno>
+            <idno type="STC">Thomason E240_23</idno>
+            <idno type="STC">ESTC R7997</idno>
+            <idno type="PROQUEST">99873227</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99873227e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88773)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158277)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 41:E240[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Latest remarkable truths, (not before printed) from Chester, Worcester, Devon, Somerset, Yorke and Lanchaster counties, as also from Scotland. Containing among other things these, viz. The Lord Generalls taking of Hereford, a treaty of peace, conditionally concluded upon in York-sheire, betweene the malignant and honest party. The taking prisoners the Earle of Bath, Sir Ralph Sydenham, M. Gifford, Sir Henry Barkley, Sir Henry Pollard, Captain Dyer, and many others of Somerset-sheire, together with the High-Sheriffe and his brother. That the commissioners of the Generall Assembly in Scotland, have chosen both divines and lay-elders, to come to the Assembly of England, with their names. Together, vvith a most exact relation of the siedge at Manchester, by the Lord Strange and his forces; begun upon Saturday the 24th. of Sept. ... Sent up by a speciall post, from a judicious eye witnesse, to a friend of the booksellers in London: shewed to many Parliament worthies, and by them read with much affection, which relation agreeth with many letters that are newly come to divers cittizens.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Vnderhill,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>October 4, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Derby, James Stanley, --  Earl of, 1607-1651 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Manchester (England) --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158277:1"/>
+            <p>The Latest Remarkable Truths, (Not before Printed) FROM <hi>Chester, Worcester, Devon, Somerset, Yorke</hi> and <hi>Lanchaster</hi> Counties, as also from <hi>Scotland.</hi> Containing among other things these, <hi>viz.</hi>
+            </p>
+            <p>The Lord Generalls taking of <hi>Hereford,</hi> A treaty of Peace, conditionally concluded upon in <hi>York-sheire,</hi> be<g ref="char:EOLhyphen"/>tweene the Malignant and Honest Party.</p>
+            <p>The taking prisoners the Earle of <hi>Bath,</hi> Sir <hi>Ralph Sydenham,</hi> M. <hi>Gifford,</hi> Sir <hi>Henry Barkley,</hi> Sir <hi>Henry Pollard,</hi> Captain <hi>Dyer,</hi> and many others of <hi>Somerset-sheire,</hi> together with the High-Sheriffe and his Brother.</p>
+            <p>That the Commissioners of the Generall Assembly in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> have chosen both Divines and Lay-Elders, to come to the Assembly of <hi>England,</hi> with their Names.</p>
+            <p>TOGETHER, With a most exact Relation of the Siedge at <hi>Manchester,</hi> by the Lord <hi>Strange</hi> and his Forces; begun upon Saturday the 24<seg rend="sup">th</seg>. of <hi>Sept.</hi> And of what hath passed all the last weeke, between the besieged and besiegers: Sent up by a speciall Post, from a judicious eye witnesse, to a Friend of the Booksellers in <hi>London:</hi> Shewed to many Parliament Wor<g ref="char:EOLhyphen"/>thies, and by them read with much affection, which Relation agreeth with many Letters that are newly come to divers CITTIZENS.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Vnderhill, October</hi> 4, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="news_reports">
+            <pb facs="tcp:158277:2"/>
+            <div type="item">
+               <head>Chester, <hi>October,</hi> 1. 1642.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Towne of <hi>Manchester</hi> hath bin besieged by the Lord <hi>Strange</hi> and his party, ever since Satterday last, It were fitter for him to bu<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y his late deceased Father the Earle of <hi>Darby</hi> (who lyes unburied at <hi>Ormes-Church</hi>) then so proudly to insult over the Lives and Estates of his own Countreymen, as he strives to doe, though I hope all in vaine; It hath cost this City 350<seg rend="sup">lb</seg>. We heare and feare that the King returnes hither on Munday, the Earle of <hi>Essex</hi> being at <hi>Bridgnoth.</hi> The King hath taken with him prisoners Sir <hi>Richard Wilbroome,</hi> Sir <hi>Tho: Delves,</hi> M. <hi>Manwering,</hi> M. <hi>Berkenheed</hi> and his son, and divers other Gentlemen of <hi>Chesheire,</hi> for opposing the Commission of Array, and all their Houses the Rebells have plundred, and give out that they will hurt none but Round-heads, which is a good argument that themselves shall be over<g ref="char:EOLhyphen"/>throwne. Captain <hi>Duck</hi> hath burned Sir <hi>William Breretons</hi> Coy-Duck to the ground, and also a great Rick of Hay that stood by it, his Name before was Cap<g ref="char:EOLhyphen"/>taine <hi>Felsebury.</hi>
+               </p>
+            </div>
+            <div type="item">
+               <head>
+                  <hi>Worcester, October</hi> 1. 1642.</head>
+               <p>THe Lord Generall sent out 1000. men to take <hi>Hereford,</hi> which they pre<g ref="char:EOLhyphen"/>sently did without much opposition.</p>
+            </div>
+            <div type="item">
+               <head>
+                  <hi>Newcastle, the</hi> 29. <hi>September,</hi> 1642.</head>
+               <p>FOr Newes here came lately the two Ships of the Kings from <hi>Ireland,</hi> com<g ref="char:EOLhyphen"/>manded by Captain <hi>Stradling</hi> and Captain <hi>Kettleby,</hi> and were supplying themselves with men and provision, but five Ships are come from the Earle of <hi>Warwick</hi> and have taken them both.</p>
+            </div>
+            <div type="item">
+               <head>
+                  <hi>Tewkesbury, Septemb.</hi> 27.</head>
+               <p>WE have had great troubles in our Countey lately, by means of the Papists rebellions and other of their adherents; on Thursday the 15<seg rend="sup">th</seg>. of this Moneth, the Lord <hi>Coventry,</hi> Sir <hi>William Russell,</hi> Sir <hi>Thomas Littleton,</hi> Sir <hi>John Biron,</hi> and other Knights whose Names I know not, Summoned all the Trained Bands in <hi>Worcester-sheire,</hi> to appeare upon the Commission of Array, at <hi>Salt<g ref="char:EOLhyphen"/>wich,</hi> and when they had them there, they compelled them to goe with them
+<pb facs="tcp:158277:2"/> and the Cavalieres which came from <hi>Oxon</hi> to <hi>Worcester,</hi> where all the Papists in that Countey and divers other Sheires had resorted long before; the Major and some other of the chiefe of the City had combined with them, so upon that Thursday night, went the number of 1000. Foot, and 600. Horse which the Major let into the City, as soone as they were in, their first work which they took in hand, was to disarme the Protestants, and they robbed them, as is credibly reported, and grew to a very great strength. Our Gentlemen, Sir <hi>Robert Cooke</hi> and M. <hi>Stephens,</hi> raised the Forces of <hi>Glocestersheire,</hi> and Colonell <hi>Fines,</hi> the Lord <hi>Sayes</hi> Sonne, raised 1500. Horse and Foot to assault the City, but could doe no good; but gathering more forces, on Friday last went forward with purpose to meete the Lord Generall there as was appointed, but one of the Re<g ref="char:EOLhyphen"/>bells came privately and combined with a Captain, a French-man of Colonell <hi>Fines</hi> Captaines, and so betrayed Colonel <hi>Fines,</hi> and brought him into an hol<g ref="char:EOLhyphen"/>low lane some mile or two from <hi>Worcester,</hi> and as they were marching the am<g ref="char:EOLhyphen"/>bush fell on behind, and the Army before, so that it proved to his losse at first, it was reported 300. were slaine, and Colonell <hi>Fines</hi> himselfe also, but since we heare of certaine not above 30. besides there were some hurt; It was said the Collonels Horse was kil'd under him, and himselfe sorely wounded; the Ene<g ref="char:EOLhyphen"/>my lost as many men likewise: within three houres after this fight, the Lord Generall came within a mile where this happenened, upon which newes the Rebels fled forth of <hi>Worcester;</hi> it is reported they are gone to <hi>Hereford,</hi> the Lord Generall is at <hi>Worcester</hi> at this present, a great part of that Shiere tooke part with the Rebels, <hi>Glocester</hi> and <hi>Tewkesbury</hi> was and is in very great danger, the Lord in mercy divert it: I heare the King is at <hi>Chester,</hi> it is reported that Prince <hi>Robert</hi> was in this fight sorely hurt: he that betrayed Colonell <hi>Fines</hi> is taken and carried on Munday to the Lord Generall, his name is <hi>Prat.</hi>
+               </p>
+            </div>
+            <div type="item">
+               <head>From <hi>Worcester, Septemb:</hi> 30. 1642.</head>
+               <p>OVR Troops lying within two miles of the Towne, was possessed with a false Alarum by one of the adverse party, which came to Colonell <hi>Sandes</hi> and Colonell <hi>Fines</hi> Troops, pretending himselfe to be one of the Lord Gene<g ref="char:EOLhyphen"/>rall his chiefe Gentlemen: his Message was to desire them from his Excellency to repaire to the walls of the Town, and to joyn himselfe with the rest of our Troops and Forces, which he said were there 1000. strong, but they had not marched a furlongs length before they were beset with the Prince <hi>Robert,</hi> his Brother, and 2000. Cavaliers, all drawn into a Battalia; our men seeing them<g ref="char:EOLhyphen"/>selves betrayed, and themselves so weak, and they so many, sounded a Parley, but they like cowardly Cavaliers, answered them with shot; so the Colonels and Cap<g ref="char:EOLhyphen"/>tains led up their men resolutely, rather dying in a good cause, then yeelding to the mercy of such merciles men, so that we have lost about 20. of our men &amp; some
+<pb facs="tcp:158277:3"/> 20 taken prisoners, which they carried to <hi>Worcester,</hi> which the Town much abu<g ref="char:EOLhyphen"/>sed in comming, with base reproaches, calling them by the name of Round-heads, saluting them with pisse-pots and durt, but since our comming they are released, but what of their men are hurt or killed we know not, but Prince <hi>Ro<g ref="char:EOLhyphen"/>bert</hi> and his Brother are both shot though not to death, we also lost in the skir<g ref="char:EOLhyphen"/>mish, that victorious Captain <hi>Wingate,</hi> but whether he is living or dead we know not, we also lost for that time Colonell <hi>Fines</hi> his Brother in the same manner, whose losse was much bewailed, we know not what we killed, but they retreating back to <hi>Worcester,</hi> after consideration, durst not withstand our Force, but cowardly ranne out of the Town, as we think towards <hi>Ludlow;</hi> On Sunday morning some of our Souldiers came to the great Church called the Colledge, which for its scituation is the finest place except <hi>Pauls</hi> that I have seene, it b<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing vaulted under-neath, some for curiosity going into one vault, some into another, so that in a little space there was discovered to the view, 7. Bar<g ref="char:EOLhyphen"/>rells of Gunpowder, and after farther search, in two or three houres space, in digging and searching wee found abundance of provision for Men, as Bread, Meate and Cheese, also abundance of Wheate and Barly, and a matter of a 100. quarters of provinder for Horses, also a great deale of Plate and Peuter, all hid in the earth, which is thought, came the most part from the Martiall Schollers to a Prebend of <hi>Worcester,</hi> whose Name is D. <hi>Smith,</hi> and to the Deane D. <hi>Potter,</hi> who are both fled; the Major of the City on their side: I verily beleeve that we shall search in all the corners there<g ref="char:EOLhyphen"/>to belonging this 3. dayes, and some certaine houses in the Town who are much against us, and I trust in the Lord we shall yet discover more of their villany every day then other, so that their Names may be infamous to the world, and a contempt for their basenesse to all men.</p>
+            </div>
+            <div type="item">
+               <head>
+                  <hi>Devon.</hi> From <hi>Barnestaple,</hi> 30, <hi>Septemb,</hi> 1642.</head>
+               <p>AFter the Marquesse <hi>Hertfords</hi> departure from <hi>Mynehead,</hi> about 400. of those Cavaliers marched from thence to <hi>Dulverton,</hi> and from thence to <hi>Exford</hi> in <hi>Somerset,</hi> about 14. miles from this Towne, and on Satturday night last came to a Village called <hi>Chittlehampton,</hi> within five miles of <hi>Barne<g ref="char:EOLhyphen"/>staple,</hi> the Inhabitants of which Town were all in armes expecting them, but they durst not approach thither, having intelligence of their readinesse, the Town being fortified with 16. Peeces of Ordinance, and 500. men in armes. The malignant neighbours assisted these Cavalieres with their servants, to guide and direct them in the Countrey: They were tyred out with their journeyes, and if the Countrey had risen against them might have bin taken all or the most part of them: A servant of the Earle of <hi>Bathes,</hi> and of Sir <hi>Raph Sydenhams</hi> con<g ref="char:EOLhyphen"/>ducted them, and the last Sabbath day they marched to Sir <hi>Bevyll Greinfeilds,</hi> upon the edge of <hi>Cornewall,</hi> and were by him received and Billeted a day or two:
+<pb facs="tcp:158277:3"/> And 'tis conceived they will joyne with the Malignant party of <hi>Cornwall,</hi> if Sir <hi>Richard Buller</hi> and others who are firme to the Parliament doe not stop their passage to <hi>Pendennyes</hi> Castle (of which Sir <hi>Nicolas Slaning</hi> is Captain, who is against the Parliament:) The Earle of <hi>Bedfords</hi> forces have marched but slow<g ref="char:EOLhyphen"/>ly after them, and the Countrey was negligent in apprehending the Cavaliers, who knowing their own weakenesse, did no harme to the Countrey.</p>
+               <p>Upon Sunday last, some Troopes of Horse and Dragooners of the Earle of <hi>Bedfords,</hi> under the Command of Sir <hi>Horatio Cary</hi> his Serjeant Major, and one Captain <hi>Duet</hi> a French-man, being about 200. Horse in all, came to <hi>Sowth<g ref="char:EOLhyphen"/>molton,</hi> about seven miles hence, and on Munday seised on Baronet <hi>Pollard</hi> a Colonell and a great Malignant, and upon all his armes, which were exceeding good, and they carried them to <hi>Moulton,</hi> and that night a Troop of their Horse and some Dragrooners, about 120. went to Sir <hi>Ralph Sydenhams</hi> house, two miles from hence, and seized on him, being a Commissioner for the Ar<g ref="char:EOLhyphen"/>ray, and brought him to this Town on Tuesday morning early, and Wednesday in the Afternoone returned to <hi>Molton,</hi> where they dismissed 12. Horse with Sir <hi>Ralph</hi> upon the way, and the rest wheeled about to the Earle of <hi>Bathes</hi> House, and apprehended him as he was going to take Horse, and brought him that night to this Town, and yesterday removed him to <hi>Moulton,</hi> they have a so taken one M. <hi>Gifford</hi> and are watching for others who appeared for the Ar<g ref="char:EOLhyphen"/>ray; whose apprehending we hope will much quiet our Countrey, and put a great dampe upon their designe in <hi>Cornewall.</hi>
+               </p>
+            </div>
+            <div type="item">
+               <head>Septemb. <hi>26.</hi> Worcester.</head>
+               <p>COncerning the newes we have here, be pleased to take notice; that we lay at a place called <hi>Colson</hi> in <hi>Warwick-sheire,</hi> and there lived a great Papist, one <hi>Frogmorton,</hi> who hearing of our comming fled away from his house and his whole Family, which the Souldiers did plunder, and found abundance of Ima<g ref="char:EOLhyphen"/>ges and Pictures, which they brake and committed to the fire, they likewise burnt many popish Bookes, some of them being almost as big as we could lift with one hand, printed in parchment, and others were throwne into a great moate; In the house we found 3. or 4. Murthering peeces, brasse pots, and a great sheet of lead about 500 weight, which was hidden under ground: the Souldiers dranke up his Perry, Sider and Beere almost all, they did lye on his Fether-beds all night, and in the Morning cut them, emptied out the feathers, carried the tikes away with them, and also silke hangings for Beds, and abundance such like things they did there, where we heard that the Cavaliers were in <hi>Worcester,</hi> toward which place we advanced with all speed.</p>
+               <p>Concerning the battell at <hi>Worcester,</hi> I suppose you have had Relation before now, onely take thus much from me, that although wee were under many disadvantages and our losse great, yet praised be God we kept our passage, caused the Enemy to retreat, and for fear leave the City.</p>
+               <pb facs="tcp:158277:4"/>
+               <p>Now in <hi>VVorcester</hi> since we came, the people told us the Cavalieres did so ha<g ref="char:EOLhyphen"/>sten away that they left their Meat roasting at the fire, but for the present we know not whether they are gone. Since we came to the City, the Souldiers did search the Colledge on the Sabbath day in the morning, where they brake downe the Rails, tore the Surplice, pul'd down the Altar in the Cathedrall, and brake open the dores, where they found many things, 12. or 13. barrels of gun-powder, many bags of bullets, a great deale of plate and pewter under the ground, 4 great horses, pease, oats, beer, and many other things; we have not yet throughly searched it, it being a very vast place, for our usage it is very bad, the farther we go the worse, we cannot get neither meat, drink, nor lodging for mony. How many of the Ca<g ref="char:EOLhyphen"/>valiers are kil<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, we cannot justly tell, they carry them away that we cannot come to know. There are many Cavaliers taken stragling about the City in one place or other. The Major of the City is in hold, and we think must be hang'd, <hi>Farewell.</hi>
+               </p>
+            </div>
+            <div type="item">
+               <head>
+                  <hi>Edenb. Sep.</hi> 27. 1642.</head>
+               <p>I Can only write to you from hence, that the Commissioners of the generall Assembly have chose 3. <hi>Elders</hi> and 6. <hi>Ministers</hi> to be at your Assembly. The <hi>Mi<g ref="char:EOLhyphen"/>nisters</hi> are M. <hi>Hinderson,</hi> M. <hi>Douglasse,</hi> M. <hi>Rutherfurd,</hi> M. <hi>Bayly,</hi> M. <hi>Gelaspe</hi> and M. <hi>Borthvicke,</hi> who is at <hi>London.</hi> The <hi>Elders</hi> are the <hi>Earle</hi> of <hi>Cassells,</hi> L. <hi>Mait<g ref="char:EOLhyphen"/>land,</hi> and Sir <hi>Archibald Johnstone.</hi>
+               </p>
+            </div>
+            <div type="item">
+               <head>
+                  <hi>Yorke-shiere. Sept. the last,</hi> 1642.</head>
+               <p>THere is a peace concluded betweene the good people of this County and the Malignant party, the Articles of agreement are sent up to many, as to M. <hi>T. M.</hi> and <hi>G. W.</hi> to my knowledge, so that I need not send you a copy of them, onely I thought good to say, that they are concluded upon, but upon condition that the King and Parliament assent unto them, for this is the last Article, which I heere set downe, because there are many Copies with<g ref="char:EOLhyphen"/>out it, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>That the peace thus treated off, and setled be in all points really performed and kept on all sides, untill answer of our Petition be returned both from King and Parliament, and for fourteene Dayes after, if they shall deny to ratifie and al<g ref="char:EOLhyphen"/>low of it.</hi> The County stands very well affected to the Parliament, and I suppose those that oppose us doe it rather from compulsion then conscience sake. <hi>Farewell.</hi>
+               </p>
+            </div>
+            <div type="item">
+               <pb facs="tcp:158277:4"/>
+               <head>A true and exact Relation of the Siedge at <hi>Manchester</hi> by the Lord <hi>Strange</hi> and his Forces, begun upon Saturday the <hi>24.</hi> of <hi>Sept.</hi> and of what pas<g ref="char:EOLhyphen"/>sed all the last weeke, betweene the besieged and the besiegers.</head>
+               <opener>
+                  <salute>Sir:</salute>
+               </opener>
+               <p>THese few lines are thankfully to acknowledge the receit of your Letter, and to let you know what a sad posture we are in here in <hi>Manchester.</hi> On Satterday night last, the <hi>Strange</hi> Lord brought part of his Forces before this Towne, and the rest on Sunday morning, in all, about two thousand Foot and six hundred Horse, with 8. or 9. peeces of Ordnance: The Towne upon the first notice for their defence betooke themselves to their Armes, having at that time some few of the Country with them, two Posts were sent out, the Bels rung; and on Sunday the Country came chearfully in to our helpe. Many shots were exchanged that day on both sides; but on Mun<g ref="char:EOLhyphen"/>day morning the Lord <hi>Strange,</hi> having planted his Ordnance in two severall places, he began to play upon the Towne, and so hath continued night and day ever since; but blessed be God hath done little harme. This day his Mus<g ref="char:EOLhyphen"/>keteers made a furious assault, and were bravely with-stood by ours, who stood at their workes most couragiously, never fearing, giving fire from an eleven of clock in the day, till about that time in the night, a hundred or more of my Lords Souldiers are slaine, and some Commanders of note; some of which are M. <hi>Tilsley</hi> and Captaine <hi>Byram;</hi> but to this Day, blessed be God, we lost not one man.</p>
+               <p>On Teusday, his Lordship in the after-noone made divers assaults, but was bravely beaten backe. At night he sent a Trumpeter and summoned a Parley, which after 4. or 5. messages was yeelded unto, and a cessation of Armes was agreed upon, till seven a clocke the next day on both sides, his demands were the delivery up of our Armes, and to march through the Towne with his Ar<g ref="char:EOLhyphen"/>my, which being denyed, he demanded a 1000<seg rend="sup">lb</seg>. then but two hundred Mus<g ref="char:EOLhyphen"/>kets, and the last message but 50. A pious and resolute answer was returned him by the unanimous consent of Commanders and common souldiers, that he should not have so much as a Sword. During the truce his Souldiers plundered and robbed divers godly mens houses, killed two Country-men, that with di<g ref="char:EOLhyphen"/>vers others were comming to succour us, since which time their greatest work hath been in plundering and robbing the Country round about us, the Lord hath enabled us with undaunted courage to stand it out against him, now 7. nights and 6. dayes, and we hope he will make a good conclusion for us, if he deliver us up into their hands, I feare we shall find no more mercy, then the poore Protestants in <hi>Ireland.</hi> Many of his Souldiers run away, who confesse they have neither meat nor mony, but what they get by robbing. Captaine <hi>Bradshaw</hi>
+                  <pb facs="tcp:158277:5"/> hath quit himselfe most valiantly to his everlasting renowne, he prayes with his Souldiers every day himselfe, here are great store of good Ministers and people.</p>
+               <p>If these lines come to your hands, shew them to some of your friends, that are Parliament-men, and aske them whether our County be the only Coun<g ref="char:EOLhyphen"/>ty in <hi>England,</hi> that are cast out of their protection, we are all chearfull and cou<g ref="char:EOLhyphen"/>ragious, and feare nothing, if some of our Deputy Lieutenants doe not desert us.</p>
+               <closer>
+                  <dateline>
+                     <hi>Manchester</hi>
+                     <date>this 2. <hi>of Octob.</hi> 1642.</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <head>Postscript.</head>
+                  <p>THe enemy have discharged their Ordnances about 300. times, and their Musketiers have done what they could, yet through Gods great mercy, we have not lost one person in the fight, only a boy unarmed, standing upon a Stile, and 5. of our men kild by the bursting of their Muskets, by reason of their over<g ref="char:EOLhyphen"/>charging them; but we have killed above a hundred of the enemies, and taken eighty Prisoners.</p>
+                  <closer>
+                     <salute>Ʋale.</salute>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="item">
+               <head>
+                  <hi>Taunton Octob.</hi> 1. 1642.</head>
+               <p>I doubt not but you have fully heard of the Marquesse and his companies lea<g ref="char:EOLhyphen"/>ving <hi>Sherburne</hi> on Munday was seven-night, and going to <hi>Mine-head</hi> a Sea Towne; but the Shipping they being prevented off, only some of the great ones, as the Marquesse, L. <hi>Seymer,</hi> L. <hi>Pawlet,</hi> S. <hi>John Stowell;</hi> &amp;c. (who we heare for certaine (but I much feare it) are taken in <hi>VVales</hi>) got over Sea: For cer<g ref="char:EOLhyphen"/>taine many of them are taken, and some of our Troopes are pursuing the rest, ha<g ref="char:EOLhyphen"/>ving taken Sir <hi>Henry Barkley</hi> or <hi>Bartlet</hi> the new high Sherife and his brother, a Knight also, with Sir <hi>Hugh Pollard</hi> and others. Captaine <hi>Dyer</hi> and M. <hi>Co<g ref="char:EOLhyphen"/>ventries</hi> chaplain, <hi>Turney</hi> by name are in <hi>Taunton</hi> Castle. Our Troopers turned up many of them being poore and base not worth imprisoning. They have ta<g ref="char:EOLhyphen"/>ken much Armes, and are now pillaging the Malignants in <hi>Devonshiere,</hi> they intend to have the Earle of <hi>Bath</hi> before they returne, who is now at his house neare <hi>Barstable.</hi> Captaine <hi>Tompsons</hi> Troope is this Day marched out of <hi>Taun<g ref="char:EOLhyphen"/>ton</hi> to <hi>Bridgewater</hi> and so to <hi>Wells,</hi> as 'tis reported: but to what purpose and whether thence I heare not, I suppose towards <hi>Worcester,</hi> since these parts are well cleared of the Cavaleers; I doubt not but these Countries will be carefull so to keepe them now, I pray God prosper that good Parliament and City in all their undertakings for him.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
